@@ -1,0 +1,16 @@
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\bin\Debug\MyDatabase.dacpac
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\bin\Debug\MyDatabase.dll
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\bin\Debug\MyDatabase.pdb
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\obj\Debug\MyDatabase.sqlprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\obj\Debug\MyDatabase.dll
+C:\Users\USER\Source\Repos\Booking_System\Triple G System\MyDatabase\obj\Debug\MyDatabase.pdb
+C:\Users\USER\Desktop\Triple G System\MyDatabase\bin\Debug\MyDatabase.dacpac
+C:\Users\USER\Desktop\Triple G System\MyDatabase\bin\Debug\MyDatabase.dll
+C:\Users\USER\Desktop\Triple G System\MyDatabase\bin\Debug\MyDatabase.pdb
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\MyDatabase.sqlprojAssemblyReference.cache
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\MyDatabase.dll
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\MyDatabase.pdb
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\Model.xml
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\refactor.xml
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\postdeploy.sql
+C:\Users\USER\Desktop\Triple G System\MyDatabase\obj\Debug\predeploy.sql
